@@ -2,72 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/post/sixth-post/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/post/sixth-post/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/fifth-post/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/post/fifth-post/</loc>
     <lastmod>2018-01-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/fourth-post/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/post/fourth-post/</loc>
     <lastmod>2017-12-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/third-post/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/post/third-post/</loc>
     <lastmod>2017-10-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/second-post/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/post/second-post/</loc>
     <lastmod>2017-07-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/first-post/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/post/first-post/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/3-portfolio/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/portfolio/3-portfolio/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/first-portfolio/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/portfolio/first-portfolio/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/2-portfolio/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/portfolio/2-portfolio/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/4-portfolio/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/portfolio/4-portfolio/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/5-portfolio/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/portfolio/5-portfolio/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/6-portfolio/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/portfolio/6-portfolio/</loc>
   </url>
   
   <url>
-    <loc>http://localhost:1313/portfolio/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/portfolio/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>http://curttimson.github.io/hugo-theme-dopetrope/post/</loc>
     <lastmod>2018-02-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
