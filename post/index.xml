@@ -20,12 +20,12 @@
     </item>
     
     <item>
-      <title>Fifth post</title>
-      <link>https://curttimson.github.io/hugo-theme-dopetrope/post/fifth-post/</link>
+      <title>No Comments Allowed</title>
+      <link>https://curttimson.github.io/hugo-theme-dopetrope/post/no-comments-allowed/</link>
       <pubDate>Fri, 05 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://curttimson.github.io/hugo-theme-dopetrope/post/fifth-post/</guid>
-      <description>&lt;p&gt;Testing content&lt;/p&gt;
+      <guid>https://curttimson.github.io/hugo-theme-dopetrope/post/no-comments-allowed/</guid>
+      <description>&lt;p&gt;This is an example of a blog post where comments are not allowed.&lt;/p&gt;
 </description>
     </item>
     
