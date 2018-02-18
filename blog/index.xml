@@ -10,12 +10,12 @@
     <atom:link href="https://curttimson.github.io/hugo-theme-dopetrope/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Sixth post</title>
-      <link>https://curttimson.github.io/hugo-theme-dopetrope/blog/sixth-post/</link>
+      <title>Comment Example</title>
+      <link>https://curttimson.github.io/hugo-theme-dopetrope/blog/comment-example/</link>
       <pubDate>Tue, 06 Feb 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://curttimson.github.io/hugo-theme-dopetrope/blog/sixth-post/</guid>
-      <description>&lt;p&gt;Testing content&lt;/p&gt;
+      <guid>https://curttimson.github.io/hugo-theme-dopetrope/blog/comment-example/</guid>
+      <description>&lt;p&gt;Example of a post with comments using Disqus.&lt;/p&gt;
 </description>
     </item>
     
@@ -30,12 +30,17 @@
     </item>
     
     <item>
-      <title>fourth post</title>
-      <link>https://curttimson.github.io/hugo-theme-dopetrope/blog/fourth-post/</link>
+      <title>No Sidebar</title>
+      <link>https://curttimson.github.io/hugo-theme-dopetrope/blog/no-sidebar/</link>
       <pubDate>Mon, 25 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://curttimson.github.io/hugo-theme-dopetrope/blog/fourth-post/</guid>
-      <description>&lt;p&gt;Testing content&lt;/p&gt;
+      <guid>https://curttimson.github.io/hugo-theme-dopetrope/blog/no-sidebar/</guid>
+      <description>&lt;p&gt;An example of a post without a sidebar.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;+++
+hidesidebar = true
++++
+&lt;/code&gt;&lt;/pre&gt;
 </description>
     </item>
     
