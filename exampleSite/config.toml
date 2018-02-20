@@ -44,6 +44,8 @@ theme = "../.."
 
 [params.portfolio]
     title = "My Portfolio"
+    viewalltext = "View All"
+    postsperpage = "6"
     foldername = "portfolio"
     findoutmoretext = "Find out more"
 

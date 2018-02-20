@@ -4,7 +4,7 @@
         <h2>{{ .title }}</h2>
     </header>
     <div class="row">
-        {{ range .paginator.Pages }}
+        {{ range .items }}
         <div class="6u 12u(mobile)">
             <section class="box">
                 <a href="{{ .Permalink }}" class="image featured"><img src="{{ .Site.BaseURL }}{{ .Params.thumbnail }}" alt="" /></a>
