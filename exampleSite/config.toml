@@ -45,6 +45,7 @@ theme = "../.."
 [params.portfolio]
     title = "My Portfolio"
     viewalltext = "View All"
+    postsonhome = "2"
     postsperpage = "6"
     foldername = "portfolio"
     findoutmoretext = "Find out more"

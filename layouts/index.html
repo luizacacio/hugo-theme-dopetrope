@@ -28,13 +28,20 @@
 			<!-- Main -->
 				<div id="main-wrapper">
 					<div class="container">
-						{{ $portfolioItems := first 6 (where .Site.Pages "Type" .Site.Params.Portfolio.foldername) }}
-						{{ if $portfolioItems }}
+						{{ $portfolioItems := where .Site.Pages "Type" .Site.Params.Portfolio.foldername }}
+						{{ $firstPortfolioItems := first .Site.Params.Portfolio.postsonhome ($portfolioItems) }}
+						{{ if $firstPortfolioItems }}
 						<div class="row">
 							<div class="12u">
 								{{ partial "portfolio.html" . }}
 							</div>
 						</div>
+						
+						<footer>
+							<ul class="actions" style="text-align: center">
+								<li><a href="{{ .Site.Params.Portfolio.foldername }}" class="button big">{{ .Site.Params.Portfolio.viewalltext }}</a></li>
+							</ul>
+						</footer>
 						
 						{{ end }}
 						{{ $blogItems := first 2 (where .Data.Pages "Type" .Site.Params.Blog.foldername) }}
